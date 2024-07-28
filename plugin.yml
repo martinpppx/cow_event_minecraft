@@ -1,0 +1,8 @@
+name: CowEvent
+version: 1.0
+main: com.event.cowevent.CowEvent
+commands:
+  cowevent:
+    description: Manage the Cow Event.
+    usage: "/cowevent <start|stop|reload>"
+    aliases: [cevent]
